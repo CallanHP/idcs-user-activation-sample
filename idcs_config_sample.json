@@ -1,0 +1,6 @@
+{
+    "baseUrl":"https://idcs-<IDCS Identifier>.identity.oraclecloud.com",
+    "clientId":"<Id goes here>",
+    "clientSecret":"<Secret goes here>",
+    "postActivationRedirect":"https://www.oracle.com"
+}
